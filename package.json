@@ -1,5 +1,5 @@
 {
-  "name": "@indooratlas/mali",
+  "name": "@indooratlas-npm/mali",
   "version": "0.6.0",
   "description": "Minimalistic gRPC microservice framework",
   "main": "lib/app.js",
